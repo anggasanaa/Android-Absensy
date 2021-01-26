@@ -1,6 +1,6 @@
-<p align="center">
+﻿<p align="center">
   <img 
-       src="https://github.com/axellageraldinc/android-Absensy/blob/development/AppLogo.png" 
+       src="https://github.com/angghero/android-Absensy/blob/development/AppLogo.png" 
        width="120" 
        title="Absensy Logo"
        alt="Absensy Logo">
